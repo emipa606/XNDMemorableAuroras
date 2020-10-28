@@ -1,25 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>[XND] Memorable Auroras</name>
-	<author>XeoNovaDan</author>
-	<packageId>XeoNovaDan.MemorableAuroras</packageId>
-	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=1437612522</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<description>Current version: 2.0.0.1 (2nd March 2020)\n\nColonists (and raiders) will now remember the spectacle that is the aurora that they have witnessed during the previous night!</description>
-	<modDependencies>
-		<li>
-			<packageId>brrainz.harmony</packageId>
-			<displayName>Harmony</displayName>
-			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
-		</li>
-	</modDependencies>
-	<loadAfter>
-		<li>Ludeon.RimWorld</li>
-		<li>Ludeon.RimWorld.Royalty</li>
-		<li>brrainz.harmony</li>
-	</loadAfter>
+  <name>[XND] Memorable Auroras (Continued)</name>
+  <packageId>Mlie.XNDMemorableAuroras</packageId>
+  <author>XeoNovaDan</author>
+  <url>https://github.com/emipa606/XNDMemorableAuroras</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of XeoNovaDans mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1437612522
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/XNDMemorableAuroras][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+[h1][b]Translations[/b][/h1]
+Deutsch - Energistics
+русский - Ninja Kitten
+
+[h1][b]Overview[/b][/h1]
+Ever thought that it was strange that the +14 moodlet from seeing a beautiful aurora just instantly vanishes as soon as a colonist steps indoors; that the spectacular image of this phenomenon just leaves their minds in a puff of smoke as if it were nothing?
+
+This is a simple mod that makes auroras lift your colonists' spirits for an entire day after witnessing an aurora, in the form of a lasting +5 moodlet - just as if they had dined in a very impressive dining room. Auroras now actually mean something for colonists that don't spend 24 hours of the day outdoors!
+
+Powered by the Harmony Patch Library.
+
+[h1][b]Compatibility[/b][/h1]
+[b]Mods:[/b]
+There are no known incompatibilities.
+
+[b]Saves:[/b]
+Should be safely addable to existing savegames. Can be removed from existing savegames without issue, though all pawns will lose any 'Observed aurora' thoughts.
+
+[h1][b]Credits[/b][/h1]
+[b]Brrainz -[/b] for kindly bestowing the community with the Harmony Patch Library
+[b]Marnador -[/b] for the RimWorld-style font
+
+[h1][b]Links[/b][/h1]
+GitHub releases: https://github.com/XeoNovaDan/MemorableAuroras/releases
+Source code: https://github.com/XeoNovaDan/MemorableAuroras</description>
 </ModMetaData>

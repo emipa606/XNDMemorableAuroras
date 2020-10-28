@@ -1,6 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-    <identifier>MemorableAuroras</identifier>
-    <version>1.0.2.1</version>
-    <manifestUri>https://rawgit.com/XeoNovaDan/MemorableAuroras/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/XeoNovaDan/MemorableAuroras/releases</downloadUri>
+  <identifier>XNDMemorableAuroras</identifier>
+  <version>1.0.1.0</version>
+  <dependencies />
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter />
+  <manifestUri>https://raw.githubusercontent.com/emipa606/XNDMemorableAuroras/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/XNDMemorableAuroras/releases</downloadUri>
 </Manifest>
+
+
