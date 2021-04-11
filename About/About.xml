@@ -24,6 +24,8 @@
 Update of XeoNovaDans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1437612522
 
+- Added french translation, thanks qux!
+
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
 [table]
@@ -56,7 +58,15 @@ Should be safely addable to existing savegames. Can be removed from existing sav
 [b]Brrainz -[/b] for kindly bestowing the community with the Harmony Patch Library
 [b]Marnador -[/b] for the RimWorld-style font
 
-[h1][b]Links[/b][/h1]
-GitHub releases: https://github.com/XeoNovaDan/MemorableAuroras/releases
-Source code: https://github.com/XeoNovaDan/MemorableAuroras</description>
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
