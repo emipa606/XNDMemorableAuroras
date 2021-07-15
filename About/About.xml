@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[XND] Memorable Auroras (Continued)</name>
   <packageId>Mlie.XNDMemorableAuroras</packageId>
@@ -8,6 +8,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -43,7 +44,7 @@ Deutsch - Energistics
 [h1][b]Overview[/b][/h1]
 Ever thought that it was strange that the +14 moodlet from seeing a beautiful aurora just instantly vanishes as soon as a colonist steps indoors; that the spectacular image of this phenomenon just leaves their minds in a puff of smoke as if it were nothing?
 
-This is a simple mod that makes auroras lift your colonists' spirits for an entire day after witnessing an aurora, in the form of a lasting +5 moodlet - just as if they had dined in a very impressive dining room. Auroras now actually mean something for colonists that don't spend 24 hours of the day outdoors!
+This is a simple mod that makes auroras lift your colonists&apos; spirits for an entire day after witnessing an aurora, in the form of a lasting +5 moodlet - just as if they had dined in a very impressive dining room. Auroras now actually mean something for colonists that don&apos;t spend 24 hours of the day outdoors!
 
 Powered by the Harmony Patch Library.
 
@@ -52,7 +53,7 @@ Powered by the Harmony Patch Library.
 There are no known incompatibilities.
 
 [b]Saves:[/b]
-Should be safely addable to existing savegames. Can be removed from existing savegames without issue, though all pawns will lose any 'Observed aurora' thoughts.
+Should be safely addable to existing savegames. Can be removed from existing savegames without issue, though all pawns will lose any &apos;Observed aurora&apos; thoughts.
 
 [h1][b]Credits[/b][/h1]
 [b]Brrainz -[/b] for kindly bestowing the community with the Harmony Patch Library
@@ -67,6 +68,6 @@ Should be safely addable to existing savegames. Can be removed from existing sav
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
+
 </description>
 </ModMetaData>
-
