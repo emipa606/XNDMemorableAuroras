@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[XND] Memorable Auroras (Continued)</name>
   <packageId>Mlie.XNDMemorableAuroras</packageId>
@@ -21,22 +21,26 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of XeoNovaDans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1437612522
 
 - Added french translation, thanks qux!
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/XNDMemorableAuroras][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 [h1][b]Translations[/b][/h1]
 Deutsch - Energistics
 русский - Ninja Kitten
@@ -44,7 +48,7 @@ Deutsch - Energistics
 [h1][b]Overview[/b][/h1]
 Ever thought that it was strange that the +14 moodlet from seeing a beautiful aurora just instantly vanishes as soon as a colonist steps indoors; that the spectacular image of this phenomenon just leaves their minds in a puff of smoke as if it were nothing?
 
-This is a simple mod that makes auroras lift your colonists&apos; spirits for an entire day after witnessing an aurora, in the form of a lasting +5 moodlet - just as if they had dined in a very impressive dining room. Auroras now actually mean something for colonists that don&apos;t spend 24 hours of the day outdoors!
+This is a simple mod that makes auroras lift your colonists' spirits for an entire day after witnessing an aurora, in the form of a lasting +5 moodlet - just as if they had dined in a very impressive dining room. Auroras now actually mean something for colonists that don't spend 24 hours of the day outdoors!
 
 Powered by the Harmony Patch Library.
 
@@ -53,13 +57,13 @@ Powered by the Harmony Patch Library.
 There are no known incompatibilities.
 
 [b]Saves:[/b]
-Should be safely addable to existing savegames. Can be removed from existing savegames without issue, though all pawns will lose any &apos;Observed aurora&apos; thoughts.
+Should be safely addable to existing savegames. Can be removed from existing savegames without issue, though all pawns will lose any 'Observed aurora' thoughts.
 
 [h1][b]Credits[/b][/h1]
 [b]Brrainz -[/b] for kindly bestowing the community with the Harmony Patch Library
 [b]Marnador -[/b] for the RimWorld-style font
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -68,6 +72,5 @@ Should be safely addable to existing savegames. Can be removed from existing sav
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-
 </description>
 </ModMetaData>
