@@ -1,13 +1,12 @@
 ﻿using Verse;
 
-namespace MemorableAuroras
+namespace MemorableAuroras;
+
+[StaticConstructorOnStartup]
+public static class HarmonyPatches
 {
-    [StaticConstructorOnStartup]
-    public static class HarmonyPatches
+    static HarmonyPatches()
     {
-        static HarmonyPatches()
-        {
-            MemorableAuroras.HarmonyInstance.PatchAll();
-        }
+        MemorableAuroras.HarmonyInstance.PatchAll();
     }
 }

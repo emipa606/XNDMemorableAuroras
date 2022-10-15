@@ -1,10 +1,9 @@
 ﻿using RimWorld;
 
-namespace MemorableAuroras
+namespace MemorableAuroras;
+
+[DefOf]
+public static class MA_ThoughtDefOf
 {
-    [DefOf]
-    public static class MA_ThoughtDefOf
-    {
-        public static ThoughtDef ObservedAurora;
-    }
+    public static ThoughtDef ObservedAurora;
 }
