@@ -11,7 +11,7 @@ public static class Patch_GameCondition_Aurora
     {
         public static void Postfix(GameCondition_Aurora __instance)
         {
-            // Try add 'Observed aurora' to all pawns every tick rare interval
+            // Try to add 'Observed aurora' to all pawns every tick rare interval
             if (GenTicks.TicksGame % GenTicks.TickRareInterval != 0)
             {
                 return;
