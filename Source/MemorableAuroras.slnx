@@ -3,4 +3,16 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="LastingAurora/MemorableAuroras.csproj" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/Patches/ThoughtDefs/">
+    <File Path="../Patches/ThoughtDefs/Thoughts_Situation_Special.xml" />
+  </Folder>
+  <Folder Name="/XML/Defs/ThoughtDefs/">
+    <File Path="../Defs/ThoughtDefs/Thoughts_Memory_Special.xml" />
+  </Folder>
 </Solution>

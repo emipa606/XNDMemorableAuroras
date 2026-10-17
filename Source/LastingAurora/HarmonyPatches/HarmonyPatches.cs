@@ -1,4 +1,5 @@
-﻿using HarmonyLib;
+﻿using System.Reflection;
+using HarmonyLib;
 using Verse;
 
 namespace MemorableAuroras;
@@ -8,6 +9,6 @@ public static class HarmonyPatches
 {
     static HarmonyPatches()
     {
-        new Harmony("XeoNovaDan.MemorableAuroras").PatchAll();
+        new Harmony("XeoNovaDan.MemorableAuroras").PatchAll(Assembly.GetExecutingAssembly());
     }
 }
